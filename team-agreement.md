@@ -1,8 +1,8 @@
 # Blue Steele Team Agreement
 
 **Team Members**:  
-- Dean Weiss
-- Emily Lee (Project Manager)
+- Dean Weiss (Project Manager)
+- Emily Lee 
 - Michael Rouson
 - Shannon Crane
 
@@ -76,7 +76,7 @@ What is your strategy for ensuring everyone’s voice is heard?
 - During meetings, going around the "table" to get input from everyone
 
 How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up? 
-- Daily check-ins and just be cool :)
+- Daily check-ins
 
 # **Work Plan** 
 Explain your work plan to track whether everyone is contributing equally to all parts of the project, and that each person is working on “meaty” problems. This should prevent “lone wolf” efforts and “siloed” efforts.
