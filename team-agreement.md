@@ -1,5 +1,11 @@
 # Blue Steele Team Agreement
 
+**Team Members**:  
+- Dean Weiss
+- Emily Lee (Project Manager)
+- Michael Rouson
+- Shannon Crane
+
 # **Cooperation Plan**
 Every person on your team is an asset. 
 
@@ -7,7 +13,7 @@ What are the key strengths of each person on the team?
 - Emily: Background in coding and works well with people 
 - Shannon: Prompt, reliable
 - Dean: Technically proficient and organizing time 
-- Michael: work ethic
+- Michael: Work ethic
 
 How can you best utilize these strengths in the execution of your project? 
 - Emily: Build code and resolve conflicts efficiently
@@ -53,12 +59,16 @@ Before beginning to tackle the project, determine how your group will communicat
 
 What hours will you be available to communicate? 
 - 9AM-4PM; treat it like work 
+
 What platforms will you use to communicate (ie. Slack, phone …)? 
 - Slack and virtual campus 
+
 How often will you take breaks? 
 - Lunch break and as needed
+
 What is your plan if you start to fall behind? 
 - Ask teammates for help. In extreme cases, request help from Code Fellows Staff 
+
 How will you communicate after hours and on the weekend? 
 - Slack or virtual campus 
 
@@ -84,9 +94,9 @@ Link to the shared doc in your project plan.
 Schedule your practice session
 Work with your instructor to pre-schedule a date and time for your “practice run” of your presentation. This should either be an exact time, or a short window of time designated by your instructor. Plan for a 30-45 minute meeting during the class session before your actual presentation to allow time for both your practice run and feedback from the instructional team.
 
-> Presentation date: Friday, August 19, 2022 
-> Rehearsal: Thurs, August 18, 2022 @ 1:00 p.m.
-> Standups: weekdays @ 9:45 a.m.
+> - Presentation date: Friday, August 19, 2022 
+> - Rehearsal: Thurs, August 18, 2022 @ 1:00 p.m.
+> - Standups: weekdays @ 9:45 a.m.
 
 Reminder as you work on and practice your presentations:
 Expressions of gratitude should be heartfelt.
@@ -104,11 +114,12 @@ How will you share the repository with your teammates?
 What is your Git flow?
 - Create individual branches, add two person verification 
     - How many people must review a PR?
-	    2 Person PR
-    - Who merges PRs? Main repo owner  
+      - 2 Person PR
+    - Who merges PRs? 
+      - Main repo owner  
     - How often will you merge?
- 	After important updates within individual branches - no limit.
+ 	    - After important updates within individual branches - no limit.
 	2 merges per day to main branch i.e. mid/end day 
     - How will you communicate that it’s time to merge?
-	When it’s been communicated that everyone is done with their task 
+      - When it’s been communicated that everyone is done with their task 
 
