@@ -20,6 +20,5 @@ Proposal to client regarding their request for mass deployment of Windows 10 VM'
 - [How to Secure Windows 10 Endpoint Workstations from Data Loss and Malware Threats](https://github.com/emily-bytes/blue_steele/blob/main/secure-windows-workstations.md)
 - [Procedure for Support and Administration of Windows Systems](https://github.com/emily-bytes/blue_steele/blob/main/Procedure_for_Support_Windows_SOP.md)
 - [Network Setup Procedure for Maximum Usability and Security](https://github.com/emily-bytes/blue_steele/blob/main/Network_Setup_Procedure_for_Max_Usability_and_Security.md)
-- [Providing Support for Cloud Services]()
-- [Deploying Technology During New Hire Onboarding]()
-- [Providing Support for Cloud Services]()
+- [Providing Support for Cloud Services](https://github.com/emily-bytes/blue_steele/blob/main/support-cloud-service.md)
+- [Deploying Technology During New Hire Onboarding](https://github.com/emily-bytes/blue_steele/blob/main/sop-deploy-tech.md)
